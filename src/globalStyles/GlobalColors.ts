@@ -1,0 +1,15 @@
+export const GLOBALCOLORS: any = {
+  primary_Color: '#4169e1',
+  accent_text: '#5E5E8A',
+  black: '#000000',
+  white: '#FFFFFF',
+  light_grey: '#F0F0F0',
+  border_Color: '#CACFD2',
+  background_Color: '#F0F0F0',
+  placeholder_text_color: '#CACFD2',
+  grey: '#F4F6F7',
+  alert_border: '#E5E7EB',
+  muted_Color: '#6B7280',
+  crimson_red: '#DC3545',
+  sea_green: '#198754',
+};

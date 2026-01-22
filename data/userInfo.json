@@ -1,0 +1,388 @@
+{
+  "VocabularyN3List": [
+    {
+      "Key": 0,
+      "FirstText": "おもちゃ",
+      "OptionalText": "玩具",
+      "SecondText": "Toy",
+      "Tag": "Vocabulary",
+      "Time": "20/8/25"
+    },
+    {
+      "Key": 1,
+      "FirstText": "えいぎょう",
+      "OptionalText": "営業",
+      "SecondText": "Sales",
+      "Tag": "Vocabulary",
+      "Time": "21/8/25"
+    },
+    {
+      "Key": 2,
+      "FirstText": "せかい",
+      "OptionalText": "世界",
+      "SecondText": "World",
+      "Tag": "Vocabulary",
+      "Time": "3/9/25"
+    },
+    {
+      "Key": 3,
+      "FirstText": "かんこうきゃく",
+      "OptionalText": "観光客",
+      "SecondText": "Tourist",
+      "Tag": "Vocabulary",
+      "Time": "21/8/25"
+    },
+    {
+      "Key": 4,
+      "FirstText": "けいさつ",
+      "OptionalText": "警察",
+      "SecondText": "Police",
+      "Tag": "Vocabulary",
+      "Time": "21/8/25"
+    },
+    {
+      "Key": 5,
+      "FirstText": "しかられる",
+      "OptionalText": "叱るしかる-Scold",
+      "SecondText": "To be scolded",
+      "Tag": "Verb",
+      "Time": "30/8/25"
+    },
+    {
+      "Key": 6,
+      "FirstText": "おしゃれ",
+      "OptionalText": "",
+      "SecondText": "Stylish",
+      "Tag": "Vocabulary",
+      "Time": "23/8/25"
+    },
+    {
+      "Key": 7,
+      "FirstText": "コンサート",
+      "OptionalText": "",
+      "SecondText": "Concert",
+      "Tag": "Vocabulary",
+      "Time": "23/8/25"
+    },
+    {
+      "Key": 8,
+      "FirstText": "ぶどう",
+      "OptionalText": "",
+      "SecondText": "Grape",
+      "Tag": "Vocabulary",
+      "Time": "28/8/25"
+    },
+    {
+      "Key": 9,
+      "FirstText": "ほめる",
+      "OptionalText": "褒める",
+      "SecondText": "To praise",
+      "Tag": "Verb",
+      "Time": "28/8/25"
+    },
+    {
+      "Key": 10,
+      "FirstText": "かいけい",
+      "OptionalText": "会計",
+      "SecondText": "Cashier",
+      "Tag": "Vocabulary",
+      "Time": "28/8/25"
+    },
+    {
+      "Key": 11,
+      "FirstText": "Aniket",
+      "OptionalText": "",
+      "SecondText": "Kumar",
+      "Tag": "None",
+      "Time": "2/9/25"
+    },
+    {
+      "Key": 12,
+      "FirstText": "まど",
+      "OptionalText": "窓",
+      "SecondText": "Window",
+      "Tag": "Vocabulary",
+      "Time": "31/8/25"
+    },
+    {
+      "Key": 13,
+      "FirstText": "アルバイト",
+      "OptionalText": "",
+      "SecondText": "Part-time Job",
+      "Tag": "Katakana",
+      "Time": "3/9/25"
+    },
+    {
+      "Key": 14,
+      "FirstText": "ひんしつ",
+      "OptionalText": "品質",
+      "SecondText": "Quality",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 15,
+      "FirstText": "きょうしゅく",
+      "OptionalText": "恐縮",
+      "SecondText": "Being grateful",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 16,
+      "FirstText": "マウス",
+      "OptionalText": "",
+      "SecondText": "Mouse",
+      "Tag": "Katakana",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 17,
+      "FirstText": "ひかります",
+      "OptionalText": "光る、u-verb",
+      "SecondText": "To light",
+      "Tag": "Verb",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 18,
+      "FirstText": "でんち",
+      "OptionalText": "電柱",
+      "SecondText": "Battery",
+      "Tag": "Vocabulary",
+      "Time": "3/9/25"
+    },
+    {
+      "Key": 19,
+      "FirstText": "さがす",
+      "OptionalText": "探す",
+      "SecondText": "To search",
+      "Tag": "Verb",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 20,
+      "FirstText": "れじぶくろ",
+      "OptionalText": "レジ袋",
+      "SecondText": "Plastic shopping bag",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 21,
+      "FirstText": "ごみばこ",
+      "OptionalText": "ゴミ箱",
+      "SecondText": "Trash bag",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 22,
+      "FirstText": "はくぶつかん",
+      "OptionalText": "博物館",
+      "SecondText": "Museum",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 23,
+      "FirstText": "すうがく",
+      "OptionalText": "数字",
+      "SecondText": "Math",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 24,
+      "FirstText": "ツアー",
+      "OptionalText": "",
+      "SecondText": "Tour",
+      "Tag": "Katakana",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 25,
+      "FirstText": "バレー",
+      "OptionalText": "A classical italian dance form",
+      "SecondText": "Ballet",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 26,
+      "FirstText": "せんこう",
+      "OptionalText": "専攻",
+      "SecondText": "Major, field of study",
+      "Tag": "Vocabulary",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 27,
+      "FirstText": "かくれる",
+      "OptionalText": "隠れる、ru-verb",
+      "SecondText": "To hide",
+      "Tag": "Verb",
+      "Time": "1/9/25"
+    },
+    {
+      "Key": 28,
+      "FirstText": "はちみつ",
+      "OptionalText": "🍯",
+      "SecondText": "Honey",
+      "Tag": "Vocabulary",
+      "Time": "7/9/25"
+    },
+    {
+      "Key": 29,
+      "FirstText": "かたち",
+      "OptionalText": "形",
+      "SecondText": "Shape",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 30,
+      "FirstText": "におい",
+      "OptionalText": "匂い",
+      "SecondText": "Smell, Scent",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 31,
+      "FirstText": "だいこん",
+      "OptionalText": "大根",
+      "SecondText": "Radish",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 32,
+      "FirstText": "にんげん",
+      "OptionalText": "人間",
+      "SecondText": "Human",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 33,
+      "FirstText": "プロ",
+      "OptionalText": "",
+      "SecondText": "Professional",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 34,
+      "FirstText": "かしゅ",
+      "OptionalText": "歌手",
+      "SecondText": "Singer",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 35,
+      "FirstText": "でんぱ",
+      "OptionalText": "電波",
+      "SecondText": "Radio wave, signal",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 36,
+      "FirstText": "よわい",
+      "OptionalText": "弱",
+      "SecondText": "Weak",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 37,
+      "FirstText": "ざんぎょう",
+      "OptionalText": "残業",
+      "SecondText": "Overtime work",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 38,
+      "FirstText": "じしん",
+      "OptionalText": "地震",
+      "SecondText": "Earthquake",
+      "Tag": "Vocabulary",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 39,
+      "FirstText": "かんじろ",
+      "OptionalText": "感じろ",
+      "SecondText": "To feel",
+      "Tag": "Verb",
+      "Time": "4/9/25"
+    },
+    {
+      "Key": 40,
+      "FirstText": "てんきよほう",
+      "OptionalText": "天気予報",
+      "SecondText": "Weather forecast",
+      "Tag": "Vocabulary",
+      "Time": "6/9/25"
+    },
+    {
+      "Key": 41,
+      "FirstText": "しんじん",
+      "OptionalText": "新人",
+      "SecondText": "Newcomer",
+      "Tag": "Vocabulary",
+      "Time": "6/9/25"
+    },
+    {
+      "Key": 42,
+      "FirstText": "むじゃき",
+      "OptionalText": "無邪気",
+      "SecondText": "Innocence",
+      "Tag": "Vocabulary",
+      "Time": "6/9/25"
+    },
+    {
+      "Key": 43,
+      "FirstText": "しりょう",
+      "OptionalText": "史料",
+      "SecondText": "Record",
+      "Tag": "Vocabulary",
+      "Time": "6/9/25"
+    },
+    {
+      "Key": 44,
+      "FirstText": "うけつけ",
+      "OptionalText": "",
+      "SecondText": "Reception",
+      "Tag": "Vocabulary",
+      "Time": "20/9/25"
+    },
+    {
+      "Key": 45,
+      "FirstText": "はこ",
+      "OptionalText": "箱",
+      "SecondText": "Box",
+      "Tag": "Vocabulary",
+      "Time": "20/9/25"
+    },
+    {
+      "Key": 46,
+      "FirstText": "ふんすい",
+      "OptionalText": "",
+      "SecondText": "Water Fountain",
+      "Tag": "None",
+      "Time": "27/9/25"
+    },
+    {
+      "Key": 47,
+      "FirstText": "きっさてん",
+      "OptionalText": "喫茶店",
+      "SecondText": "Cafe",
+      "Tag": "Vocabulary",
+      "Time": "27/9/25"
+    }
+  ]
+}

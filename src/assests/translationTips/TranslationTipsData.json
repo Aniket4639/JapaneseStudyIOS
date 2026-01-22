@@ -1,0 +1,928 @@
+[
+    {
+        "id": 1,
+        "lessonNumber": 1,
+        "title": "Dictionary Form",
+        "japaneseTitle": "辞書形",
+        "data": [
+            {
+                "japaneseText": "サッカーを見るのが好きです。",
+                "hiraganaText": "さっかーをみるのがすきです。",
+                "englishText": "I like to watch soccer.",
+                "vocabularyText": [
+                    {
+                        "見る": "みる"
+                    },
+                    {
+                        "好き": "すき"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "パーティーに行くつもりです。",
+                "hiraganaText": "ぱーてぃーにいくつもりです。",
+                "englishText": "I plan to go to the party.",
+                "vocabularyText": [
+                    {
+                        "行く": "いく"
+                    },
+                    {
+                        "つもり": "つもり"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "寝るまえに本を読みます。",
+                "hiraganaText": "ねるまえにほんをよみます。",
+                "englishText": "I read a book before going to sleep.",
+                "vocabularyText": [
+                    {
+                        "寝る": "ねる"
+                    },
+                    {
+                        "読む": "よむ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "lessonNumber": 2,
+        "title": "Masu-form",
+        "japaneseTitle": "ます形",
+        "data": [
+            {
+                "japaneseText": "荷物を持ちましょうか。",
+                "hiraganaText": "にもつをもちましょうか。",
+                "englishText": "Shall I carry your bag(s)?",
+                "vocabularyText": [
+                    {
+                        "荷物": "にもつ"
+                    },
+                    {
+                        "持つ": "もつ"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "新宿に映画を見に行きます。",
+                "hiraganaText": "しんじゅくにえいがをみにいきます。",
+                "englishText": "I’ll go to Shinjuku to see a movie.",
+                "vocabularyText": [
+                    {
+                        "映画": "えいが"
+                    },
+                    {
+                        "見る": "みる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "ラーメンが食べたいです。",
+                "hiraganaText": "らーめんがたべたいです。",
+                "englishText": "I want to eat ramen.",
+                "vocabularyText": [
+                    {
+                        "食べる": "たべる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "昨日ケーキを食べすぎました。",
+                "hiraganaText": "きのうけーきをたべすぎました。",
+                "englishText": "I ate too much cake yesterday.",
+                "vocabularyText": [
+                    {
+                        "昨日": "きのう"
+                    },
+                    {
+                        "食べる": "たべる"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "lessonNumber": 3,
+        "title": "Te-form (1)",
+        "japaneseTitle": "て形①",
+        "data": [
+            {
+                "japaneseText": "ゆっくり話してください。",
+                "hiraganaText": "ゆっくりはなしてください。",
+                "englishText": "Please speak slowly.",
+                "vocabularyText": [
+                    {
+                        "話す": "はなす"
+                    },
+                    {
+                        "ください": "ください"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "ひらがなで書いていただけませんか。",
+                "hiraganaText": "ひらがなでかいていただけませんか。",
+                "englishText": "Could you write in hiragana?",
+                "vocabularyText": [
+                    {
+                        "書く": "かく"
+                    },
+                    {
+                        "ひらがな": "ひらがな"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "lessonNumber": 4,
+        "title": "Te-form (2)",
+        "japaneseTitle": "て形②",
+        "data": [
+            {
+                "japaneseText": "今日、日本語を勉強しています。",
+                "hiraganaText": "きょう、にほんごをべんきょうしています。",
+                "englishText": "I’m studying Japanese now.",
+                "vocabularyText": [
+                    {
+                        "今日": "きょう"
+                    },
+                    {
+                        "勉強する": "べんきょうする"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "新宿で働いています。",
+                "hiraganaText": "しんじゅくではたらいています。",
+                "englishText": "I’m working in Shinjuku.",
+                "vocabularyText": [
+                    {
+                        "働く": "はたらく"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "10年前、パリに住んでいました。",
+                "hiraganaText": "じゅうねんまえ、ぱりにすんでいました。",
+                "englishText": "I used to live in Paris ten years ago.",
+                "vocabularyText": [
+                    {
+                        "住む": "すむ"
+                    },
+                    {
+                        "年前": "ねんまえ"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "まだ昼ご飯を食べていません。",
+                "hiraganaText": "まだひるごはんをたべていません。",
+                "englishText": "I haven’t eaten lunch yet.",
+                "vocabularyText": [
+                    {
+                        "昼ご飯": "ひるごはん"
+                    },
+                    {
+                        "食べる": "たべる"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "lessonNumber": 5,
+        "title": "Ta-form",
+        "japaneseTitle": "た形",
+        "data": [
+            {
+                "japaneseText": "富士山に登ったことがあります。",
+                "hiraganaText": "ふじさんにのぼったことがあります。",
+                "englishText": "I have climbed Mount Fuji.",
+                "vocabularyText": [
+                    {
+                        "富士山": "ふじさん"
+                    },
+                    {
+                        "登る": "のぼる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "バスで行ったほうがいいです。",
+                "hiraganaText": "ばすでいったほうがいいです。",
+                "englishText": "It’s better to go by bus.",
+                "vocabularyText": [
+                    {
+                        "行く": "いく"
+                    },
+                    {
+                        "ほうがいい": "ほうがいい"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "映画を見たり、買い物をしたりします。",
+                "hiraganaText": "えいがをみたり、かいものをしたりします。",
+                "englishText": "I do things like watching movies and going shopping.",
+                "vocabularyText": [
+                    {
+                        "映画": "えいが"
+                    },
+                    {
+                        "買い物": "かいもの"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "お金があったら、世界中を旅行します。",
+                "hiraganaText": "おかねがあったら、せかいじゅうをりょこうします。",
+                "englishText": "If I had the money, I would travel around the world.",
+                "vocabularyText": [
+                    {
+                        "お金": "おかね"
+                    },
+                    {
+                        "旅行する": "りょこうする"
+                    },
+                    {
+                        "世界中": "せかいじゅう"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "lessonNumber": 6,
+        "title": "Nai-form",
+        "japaneseTitle": "ない形",
+        "data": [
+            {
+                "japaneseText": "時間に遅れないでください。",
+                "hiraganaText": "じかんにおくれないでください。",
+                "englishText": "Please don't be late.",
+                "vocabularyText": [
+                    {
+                        "時間": "じかん"
+                    },
+                    {
+                        "遅れる": "おくれる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "今日は早めに帰らなければなりません。",
+                "hiraganaText": "きょうははやめにかえらなければなりません。",
+                "englishText": "I have to leave earlier today.",
+                "vocabularyText": [
+                    {
+                        "今日": "きょう"
+                    },
+                    {
+                        "早めに": "はやめに"
+                    },
+                    {
+                        "帰る": "かえる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "無理しないほうがいいです。",
+                "hiraganaText": "むりしないほうがいいです。",
+                "englishText": "It's better not to work too hard.",
+                "vocabularyText": [
+                    {
+                        "無理する": "むりする"
+                    },
+                    {
+                        "ほうがいい": "ほうがいい"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "日本語で書かなくてもいいです。",
+                "hiraganaText": "にほんごでかかなくてもいいです。",
+                "englishText": "You don't have to write in Japanese.",
+                "vocabularyText": [
+                    {
+                        "日本語": "にほんご"
+                    },
+                    {
+                        "書く": "かく"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "lessonNumber": 7,
+        "title": "Expressions Using Plain Form ①",
+        "japaneseTitle": "普通形を使った表現①",
+        "data": [
+            {
+                "japaneseText": "田中さんは会社にいると思います。",
+                "hiraganaText": "たなかさんはかいしゃにいるとおもいます。",
+                "englishText": "I think Tanaka-san is in the office.",
+                "vocabularyText": [
+                    {
+                        "田中": "たなか"
+                    },
+                    {
+                        "会社": "かいしゃ"
+                    },
+                    {
+                        "思う": "おもう"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "明日は雨が降るかもしれません。",
+                "hiraganaText": "あしたはあめがふるかもしれません。",
+                "englishText": "It might rain tomorrow.",
+                "vocabularyText": [
+                    {
+                        "明日": "あした"
+                    },
+                    {
+                        "雨": "あめ"
+                    },
+                    {
+                        "降る": "ふる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "この曲は人気があるみたいです。",
+                "hiraganaText": "このきょくはにんきがあるみたいです。",
+                "englishText": "This song seems to be popular.",
+                "vocabularyText": [
+                    {
+                        "曲": "きょく"
+                    },
+                    {
+                        "人気": "にんき"
+                    },
+                    {
+                        "みたい": "みたい"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "部長はもう帰ったと思います。",
+                "hiraganaText": "ぶちょうはもうかえったとおもいます。",
+                "englishText": "I think the manager already went home.",
+                "vocabularyText": [
+                    {
+                        "部長": "ぶちょう"
+                    },
+                    {
+                        "帰る": "かえる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "セールは昨日までだったかもしれません。",
+                "hiraganaText": "せーるはきのうまでだったかもしれません。",
+                "englishText": "The sale might have been until yesterday.",
+                "vocabularyText": [
+                    {
+                        "昨日": "きのう"
+                    },
+                    {
+                        "まで": "まで"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "ジョンさんは仕事を辞めたみたいです。",
+                "hiraganaText": "じょんさんはしごとをやめたみたいです。",
+                "englishText": "John seems to have quit his job.",
+                "vocabularyText": [
+                    {
+                        "仕事": "しごと"
+                    },
+                    {
+                        "辞める": "やめる"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "lessonNumber": 8,
+        "title": "Expressions Using Adjectives",
+        "japaneseTitle": "形容詞を使った表現",
+        "data": [
+            {
+                "japaneseText": "タクシーより電車のほうが早いです。",
+                "hiraganaText": "たくしーよりでんしゃのほうがはやいです。",
+                "englishText": "The train is faster than a taxi.",
+                "vocabularyText": [
+                    {
+                        "電車": "でんしゃ"
+                    },
+                    {
+                        "早い": "はやい"
+                    },
+                    {
+                        "より": "より"
+                    },
+                    {
+                        "ほうが": "ほうが"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "日本の中で、東京が一番家賃が高いです。",
+                "hiraganaText": "にほんのなかで、とうきょうがいちばんやちんがたかいです。",
+                "englishText": "Tokyo’s rent is the highest in Japan.",
+                "vocabularyText": [
+                    {
+                        "日本": "にほん"
+                    },
+                    {
+                        "中": "なか"
+                    },
+                    {
+                        "東京": "とうきょう"
+                    },
+                    {
+                        "一番": "いちばん"
+                    },
+                    {
+                        "家賃": "やちん"
+                    },
+                    {
+                        "高い": "たかい"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "東京は人が多くてにぎやかです。",
+                "hiraganaText": "とうきょうはひとがおおくてにぎやかです。",
+                "englishText": "Tokyo is full of people and lively.",
+                "vocabularyText": [
+                    {
+                        "人": "ひと"
+                    },
+                    {
+                        "多い": "おおい"
+                    },
+                    {
+                        "にぎやか": "にぎやか"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "この店のラーメンはおいしそうです。",
+                "hiraganaText": "このみせのらーめんはおいしそうです。",
+                "englishText": "This ramen looks tasty.",
+                "vocabularyText": [
+                    {
+                        "店": "みせ"
+                    },
+                    {
+                        "おいしそう": "おいしそう"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "日本のお菓子は甘すぎます。",
+                "hiraganaText": "にほんのおかしはあますぎます。",
+                "englishText": "Japanese sweets are too sweet.",
+                "vocabularyText": [
+                    {
+                        "お菓子": "おかし"
+                    },
+                    {
+                        "甘い": "あまい"
+                    },
+                    {
+                        "〜すぎる": "すぎる"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "lessonNumber": 9,
+        "title": "Expressions Using Potential Verbs",
+        "japaneseTitle": "可能動詞を使った表現",
+        "data": [
+            {
+                "japaneseText": "ギターが弾けます。",
+                "hiraganaText": "ぎたーがひけます。",
+                "englishText": "I can play the guitar.",
+                "vocabularyText": [
+                    {
+                        "弾く": "ひく"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "漢字が読めるようになりました。",
+                "hiraganaText": "かんじがよめるようになりました。",
+                "englishText": "I became able to read kanji.",
+                "vocabularyText": [
+                    {
+                        "漢字": "かんじ"
+                    },
+                    {
+                        "読む": "よむ"
+                    },
+                    {
+                        "ようになる": "ようになる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "ここから富士山が見えます。",
+                "hiraganaText": "ここからふじさんがみえます。",
+                "englishText": "I can see Mount Fuji from here.",
+                "vocabularyText": [
+                    {
+                        "ここから": "ここから"
+                    },
+                    {
+                        "富士山": "ふじさん"
+                    },
+                    {
+                        "見える": "みえる"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "lessonNumber": 10,
+        "title": "Expressions Using Plain Form ②",
+        "japaneseTitle": "普通形を使った表現②",
+        "data": [
+            {
+                "japaneseText": "部長はまだ会議室にいるはずです。",
+                "hiraganaText": "ぶちょうはまだかいぎしつにいるはずです。",
+                "englishText": "The manager should still be in the meeting room.",
+                "vocabularyText": [
+                    {
+                        "部長": "ぶちょう"
+                    },
+                    {
+                        "会議室": "かいぎしつ"
+                    },
+                    {
+                        "はず": "はず"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "仕事が忙しいのでレッスンを休みます。",
+                "hiraganaText": "しごとがいそがしいのでれっすんをやすみます。",
+                "englishText": "I'll miss the lesson because I'm busy at work.",
+                "vocabularyText": [
+                    {
+                        "仕事": "しごと"
+                    },
+                    {
+                        "忙しい": "いそがしい"
+                    },
+                    {
+                        "休む": "やすむ"
+                    },
+                    {
+                        "ので": "ので"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "これは沖縄で撮った写真です。",
+                "hiraganaText": "これはおきなわでとったしゃしんです。",
+                "englishText": "This is a photo taken in Okinawa.",
+                "vocabularyText": [
+                    {
+                        "沖縄": "おきなわ"
+                    },
+                    {
+                        "撮る": "とる"
+                    },
+                    {
+                        "写真": "しゃしん"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "JLPTを受けるかどうかわかりません。",
+                "hiraganaText": "じぇーえるぴーてぃーをうけるかどうかわかりません。",
+                "englishText": "I don't know if I'll take the JLPT or not.",
+                "vocabularyText": [
+                    {
+                        "受ける": "うける"
+                    },
+                    {
+                        "かどうか": "かどうか"
+                    },
+                    {
+                        "わかる": "わかる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "彼女が何時に来るかわかりません。",
+                "hiraganaText": "かのじょがなんじにくるかわかりません。",
+                "englishText": "I don't know what time she will come.",
+                "vocabularyText": [
+                    {
+                        "彼女": "かのじょ"
+                    },
+                    {
+                        "何時": "なんじ"
+                    },
+                    {
+                        "来る": "くる"
+                    },
+                    {
+                        "わかる": "わかる"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "lessonNumber": 11,
+        "title": "Expressions Using Te-form ③",
+        "japaneseTitle": "て形を使った表現③",
+        "data": [
+            {
+                "japaneseText": "自分で作ってみます。",
+                "hiraganaText": "じぶんでつくってみます。",
+                "englishText": "I’ll try to make it myself.",
+                "vocabularyText": [
+                    {
+                        "自分": "じぶん"
+                    },
+                    {
+                        "作る": "つくる"
+                    },
+                    {
+                        "みる (try)": "みる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "予約しておきます。",
+                "hiraganaText": "よやくしておきます。",
+                "englishText": "I’ll make the reservation (in advance).",
+                "vocabularyText": [
+                    {
+                        "予約": "よやく"
+                    },
+                    {
+                        "する": "する"
+                    },
+                    {
+                        "おく": "おく"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "桜が咲いています。",
+                "hiraganaText": "さくらがさいています。",
+                "englishText": "The cherry blossoms are blooming.",
+                "vocabularyText": [
+                    {
+                        "桜": "さくら"
+                    },
+                    {
+                        "咲く": "さく"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "財布を落としてしまいました。",
+                "hiraganaText": "さいふをおとしてしまいました。",
+                "englishText": "Unfortunately, I dropped the wallet.",
+                "vocabularyText": [
+                    {
+                        "財布": "さいふ"
+                    },
+                    {
+                        "落とす": "おとす"
+                    },
+                    {
+                        "しまう": "しまう"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "lessonNumber": 12,
+        "title": "Expressions Using Conditional Form",
+        "japaneseTitle": "条件形を使った表現",
+        "data": [
+            {
+                "japaneseText": "タクシーに乗れば、間に合います。",
+                "hiraganaText": "たくしーにのれば、まにあいます。",
+                "englishText": "You can make it if you take a taxi.",
+                "vocabularyText": [
+                    {
+                        "タクシー": "たくしー"
+                    },
+                    {
+                        "乗る": "のる"
+                    },
+                    {
+                        "間に合う": "まにあう"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "もっと勉強すればよかったです。",
+                "hiraganaText": "もっとべんきょうすればよかったです。",
+                "englishText": "I should have studied harder.",
+                "vocabularyText": [
+                    {
+                        "もっと": "もっと"
+                    },
+                    {
+                        "勉強する": "べんきょうする"
+                    },
+                    {
+                        "よかった": "よかった"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "どうやって注文すればいいですか。",
+                "hiraganaText": "どうやってちゅうもんすればいいですか。",
+                "englishText": "How should I order?",
+                "vocabularyText": [
+                    {
+                        "注文する": "ちゅうもんする"
+                    },
+                    {
+                        "どうやって": "どうやって"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "lessonNumber": 13,
+        "title": "Giving and Receiving",
+        "japaneseTitle": "授受表現",
+        "data": [
+            {
+                "japaneseText": "私は友だちにDVDをあげました。",
+                "hiraganaText": "わたしはともだちにでぃーぶいでぃーをあげました。",
+                "englishText": "I gave my friend the DVD.",
+                "vocabularyText": [
+                    {
+                        "友だち": "ともだち"
+                    },
+                    {
+                        "あげる": "あげる"
+                    },
+                    {
+                        "DVD": "でぃーぶいでぃー"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "友だちが私にお菓子をくれました。",
+                "hiraganaText": "ともだちがわたしにおかしをくれました。",
+                "englishText": "My friend gave me snacks.",
+                "vocabularyText": [
+                    {
+                        "友だち": "ともだち"
+                    },
+                    {
+                        "私": "わたし"
+                    },
+                    {
+                        "お菓子": "おかし"
+                    },
+                    {
+                        "くれる": "くれる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "友だちに映画のチケットをもらいました。",
+                "hiraganaText": "ともだちにえいがのちけっとをもらいました。",
+                "englishText": "I got tickets to the movies from my friends.",
+                "vocabularyText": [
+                    {
+                        "映画": "えいが"
+                    },
+                    {
+                        "チケット": "ちけっと"
+                    },
+                    {
+                        "もらう": "もらう"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "私は友だちに英語を教えてあげました。",
+                "hiraganaText": "わたしはともだちにえいごをおしえてあげました。",
+                "englishText": "I taught my friend English.",
+                "vocabularyText": [
+                    {
+                        "英語": "えいご"
+                    },
+                    {
+                        "教える": "おしえる"
+                    },
+                    {
+                        "あげる (to do for someone)": "あげる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "友だちが私に日本語を教えてくれました。",
+                "hiraganaText": "ともだちがわたしににほんごをおしえてくれました。",
+                "englishText": "My friend taught me Japanese.",
+                "vocabularyText": [
+                    {
+                        "日本語": "にほんご"
+                    },
+                    {
+                        "教える": "おしえる"
+                    },
+                    {
+                        "くれる": "くれる"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "友だちに宿題を手伝ってもらいました。",
+                "hiraganaText": "ともだちにしゅくだいをてつだってもらいました。",
+                "englishText": "I had my friend help me with my homework.",
+                "vocabularyText": [
+                    {
+                        "宿題": "しゅくだい"
+                    },
+                    {
+                        "手伝う": "てつだう"
+                    },
+                    {
+                        "もらう": "もらう"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "lessonNumber": 14,
+        "title": "Expressions Using Volitional Form",
+        "japaneseTitle": "意向形を使った表現",
+        "data": [
+            {
+                "japaneseText": "今週は行こうと思っています。",
+                "hiraganaText": "こんしゅうはいこうとおもっています。",
+                "englishText": "I am thinking of going this week.",
+                "vocabularyText": [
+                    {
+                        "今週": "こんしゅう"
+                    },
+                    {
+                        "行く": "いく"
+                    },
+                    {
+                        "思う": "おもう"
+                    }
+                ]
+            },
+            {
+                "japaneseText": "レストランを予約しようと思ったら、いっぱいでした。",
+                "hiraganaText": "れすとらんをよやくしようとおもったら、いっぱいでした。",
+                "englishText": "When I tried to make a reservation at the restaurant, it was fully booked.",
+                "vocabularyText": [
+                    {
+                        "レストラン": "れすとらん"
+                    },
+                    {
+                        "予約する": "よやくする"
+                    },
+                    {
+                        "いっぱい": "いっぱい"
+                    }
+                ]
+            }
+        ]
+    }
+]

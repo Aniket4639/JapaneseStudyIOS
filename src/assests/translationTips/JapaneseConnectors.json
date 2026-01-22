@@ -1,0 +1,939 @@
+[
+    {
+        "lessonNumber": 15,
+        "title": "Japanese Conjunctions",
+        "topics": [
+            {
+                "title": "から (kara)",
+                "meaning": "because / since (reason)",
+                "form_explanation": "Verb (plain) + から; i-adj + から; na-adj + だから; Noun + だから",
+                "patterns": [
+                    {
+                        "pos": "verb-u",
+                        "formation": "u-verb (plain) + から"
+                    },
+                    {
+                        "pos": "verb-ru",
+                        "formation": "ru-verb (plain) + から"
+                    },
+                    {
+                        "pos": "verb-irregular",
+                        "formation": "suru/kuru → suru kara / kuru kara"
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "formation": "Aい + から"
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "formation": "Adj + だから"
+                    },
+                    {
+                        "pos": "noun",
+                        "formation": "N + だから"
+                    }
+                ],
+                "entries": [
+                    {
+                        "pos": "verb-u",
+                        "tense": "present",
+                        "example": {
+                            "jp": "時間がないから、行けません。",
+                            "romaji": "Jikan ga nai kara, ikemasen.",
+                            "en": "Because I don’t have time, I can’t go."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "時間",
+                                "reading": "じかん",
+                                "meaning": "time"
+                            },
+                            {
+                                "word": "ない",
+                                "reading": "—",
+                                "meaning": "not exist, not have"
+                            },
+                            {
+                                "word": "行ける",
+                                "reading": "いける",
+                                "meaning": "to be able to go"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "verb-u",
+                        "tense": "past",
+                        "example": {
+                            "jp": "時間がなかったから、行けませんでした。",
+                            "romaji": "Jikan ga nakatta kara, ikemasen deshita.",
+                            "en": "Because I didn’t have time, I couldn’t go."
+                        }
+                    },
+                    {
+                        "pos": "verb-ru",
+                        "tense": "present",
+                        "example": {
+                            "jp": "食べるから、元気です。",
+                            "romaji": "Taberu kara, genki desu.",
+                            "en": "Because I eat, I feel good."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "食べる",
+                                "reading": "たべる",
+                                "meaning": "to eat"
+                            },
+                            {
+                                "word": "元気",
+                                "reading": "げんき",
+                                "meaning": "healthy, energetic"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "verb-ru",
+                        "tense": "past",
+                        "example": {
+                            "jp": "食べたから、元気でした。",
+                            "romaji": "Tabeta kara, genki deshita.",
+                            "en": "Because I ate, I felt good."
+                        }
+                    },
+                    {
+                        "pos": "verb-irregular",
+                        "tense": "present",
+                        "example": {
+                            "jp": "勉強するから、上手になります。",
+                            "romaji": "Benkyou suru kara, jōzu ni narimasu.",
+                            "en": "Because I study, I will get better."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "勉強する",
+                                "reading": "べんきょうする",
+                                "meaning": "to study"
+                            },
+                            {
+                                "word": "上手",
+                                "reading": "じょうず",
+                                "meaning": "skillful"
+                            },
+                            {
+                                "word": "なる",
+                                "reading": "なる",
+                                "meaning": "to become"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "verb-irregular",
+                        "tense": "past",
+                        "example": {
+                            "jp": "勉強したから、上手になりました。",
+                            "romaji": "Benkyou shita kara, jōzu ni narimashita.",
+                            "en": "Because I studied, I got better."
+                        }
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "暑いから、窓を開けます。",
+                            "romaji": "Atsui kara, mado o akemasu.",
+                            "en": "Because it’s hot, I’ll open the window."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "暑い",
+                                "reading": "あつい",
+                                "meaning": "hot (weather)"
+                            },
+                            {
+                                "word": "窓",
+                                "reading": "まど",
+                                "meaning": "window"
+                            },
+                            {
+                                "word": "開ける",
+                                "reading": "あける",
+                                "meaning": "to open"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "暑かったから、窓を開けました。",
+                            "romaji": "Atsukatta kara, mado o akemashita.",
+                            "en": "Because it was hot, I opened the window."
+                        }
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "静かだから、ここが好きです。",
+                            "romaji": "Shizuka dakara, koko ga suki desu.",
+                            "en": "Because it’s quiet, I like this place."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "静か",
+                                "reading": "しずか",
+                                "meaning": "quiet"
+                            },
+                            {
+                                "word": "ここ",
+                                "reading": "—",
+                                "meaning": "here"
+                            },
+                            {
+                                "word": "好き",
+                                "reading": "すき",
+                                "meaning": "to like"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "静かだったから、ここが好きでした。",
+                            "romaji": "Shizuka datta kara, koko ga suki deshita.",
+                            "en": "Because it was quiet, I liked this place."
+                        }
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "present",
+                        "example": {
+                            "jp": "学生だから、お金がありません。",
+                            "romaji": "Gakusei dakara, okane ga arimasen.",
+                            "en": "Because I’m a student, I don’t have money."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "学生",
+                                "reading": "がくせい",
+                                "meaning": "student"
+                            },
+                            {
+                                "word": "お金",
+                                "reading": "おかね",
+                                "meaning": "money"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "past",
+                        "example": {
+                            "jp": "学生だったから、お金がありませんでした。",
+                            "romaji": "Gakusei datta kara, okane ga arimasen deshita.",
+                            "en": "Because I was a student, I didn’t have money."
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "ので (node)",
+                "meaning": "because / since (softer, polite)",
+                "form_explanation": "Verb (plain) + ので; i-adj + ので; na-adj + なので; Noun + なので",
+                "patterns": [
+                    {
+                        "pos": "verb",
+                        "formation": "Verb (plain) + ので"
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "formation": "Adjい + ので"
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "formation": "Adj + なので"
+                    },
+                    {
+                        "pos": "noun",
+                        "formation": "N + なので"
+                    }
+                ],
+                "entries": [
+                    {
+                        "pos": "verb",
+                        "tense": "present",
+                        "example": {
+                            "jp": "時間がないので、行けません。",
+                            "romaji": "Jikan ga nai node, ikemasen.",
+                            "en": "Since I don’t have time, I can’t go."
+                        }
+                    },
+                    {
+                        "pos": "verb",
+                        "tense": "past",
+                        "example": {
+                            "jp": "時間がなかったので、行けませんでした。",
+                            "romaji": "Jikan ga nakatta node, ikemasen deshita.",
+                            "en": "Since I didn’t have time, I couldn’t go."
+                        }
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "暑いので、窓を開けます。",
+                            "romaji": "Atsui node, mado o akemasu.",
+                            "en": "Since it’s hot, I’ll open the window."
+                        }
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "暑かったので、窓を開けました。",
+                            "romaji": "Atsukatta node, mado o akemashita.",
+                            "en": "Since it was hot, I opened the window."
+                        }
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "静かなので、ここが好きです。",
+                            "romaji": "Shizuka na node, koko ga suki desu.",
+                            "en": "Since it’s quiet, I like this place."
+                        }
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "静かだったので、ここが好きでした。",
+                            "romaji": "Shizuka datta node, koko ga suki deshita.",
+                            "en": "Since it was quiet, I liked this place."
+                        }
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "present",
+                        "example": {
+                            "jp": "学生なので、お金がありません。",
+                            "romaji": "Gakusei na node, okane ga arimasen.",
+                            "en": "Since I’m a student, I don’t have money."
+                        }
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "past",
+                        "example": {
+                            "jp": "学生だったので、お金がありませんでした。",
+                            "romaji": "Gakusei datta node, okane ga arimasen deshita.",
+                            "en": "Since I was a student, I didn’t have money."
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "でも (demo)",
+                "meaning": "but / however / even / something like",
+                "form_explanation": "Pattern A: Sentence A。でも、Sentence B。 | Pattern B: Noun + でも",
+                "patterns": [
+                    {
+                        "pos": "conjunction",
+                        "formation": "Sentence A。でも、Sentence B。"
+                    },
+                    {
+                        "pos": "noun",
+                        "formation": "Noun + でも (even / something like)"
+                    }
+                ],
+                "entries": [
+                    {
+                        "pos": "conjunction",
+                        "tense": "present",
+                        "example": {
+                            "jp": "雨です。でも、行きます。",
+                            "romaji": "Ame desu. Demo, ikimasu.",
+                            "en": "It’s raining. But I’ll go."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "雨",
+                                "reading": "あめ",
+                                "meaning": "rain"
+                            },
+                            {
+                                "word": "行く",
+                                "reading": "いく",
+                                "meaning": "to go"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "conjunction",
+                        "tense": "past",
+                        "example": {
+                            "jp": "雨でした。でも、行きました。",
+                            "romaji": "Ame deshita. Demo, ikimashita.",
+                            "en": "It was raining. But I went."
+                        }
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "高いです。でも、買います。",
+                            "romaji": "Takai desu. Demo, kaimasu.",
+                            "en": "It’s expensive. But I’ll buy it."
+                        }
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "高かったです。でも、買いました。",
+                            "romaji": "Takakatta desu. Demo, kaimashita.",
+                            "en": "It was expensive. But I bought it."
+                        }
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "静かです。でも、少し寂しいです。",
+                            "romaji": "Shizuka desu. Demo, sukoshi sabishii desu.",
+                            "en": "It’s quiet. But it’s a little lonely."
+                        }
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "静かでした。でも、楽しかったです。",
+                            "romaji": "Shizuka deshita. Demo, tanoshikatta desu.",
+                            "en": "It was quiet. But it was fun."
+                        }
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "present",
+                        "example": {
+                            "jp": "コーヒーでも飲みませんか。",
+                            "romaji": "Kōhī demo nomimasen ka.",
+                            "en": "How about (something like) coffee?"
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "コーヒー",
+                                "reading": "—",
+                                "meaning": "coffee"
+                            },
+                            {
+                                "word": "飲む",
+                                "reading": "のむ",
+                                "meaning": "to drink"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "past",
+                        "example": {
+                            "jp": "昨日は映画でも見ました。",
+                            "romaji": "Kinō wa eiga demo mimashita.",
+                            "en": "Yesterday, I watched (something like) a movie."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "映画",
+                                "reading": "えいが",
+                                "meaning": "movie"
+                            },
+                            {
+                                "word": "見る",
+                                "reading": "みる",
+                                "meaning": "to watch/see"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "けど (kedo)",
+                "meaning": "but / although (casual, soft contrast)",
+                "form_explanation": "Verb (plain) + けど; i-adj + けど; na-adj + だけど; Noun + だけど",
+                "patterns": [
+                    {
+                        "pos": "verb",
+                        "formation": "Verb (plain) + けど"
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "formation": "Adjい + けど"
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "formation": "Adj + だけど"
+                    },
+                    {
+                        "pos": "noun",
+                        "formation": "N + だけど"
+                    }
+                ],
+                "entries": [
+                    {
+                        "pos": "verb",
+                        "tense": "present",
+                        "example": {
+                            "jp": "行くけど、遅れるかもしれない。",
+                            "romaji": "Iku kedo, okureru kamoshirenai.",
+                            "en": "I’ll go, but I might be late."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "行く",
+                                "reading": "いく",
+                                "meaning": "to go"
+                            },
+                            {
+                                "word": "遅れる",
+                                "reading": "おくれる",
+                                "meaning": "to be late"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "verb",
+                        "tense": "past",
+                        "example": {
+                            "jp": "行ったけど、誰もいなかった。",
+                            "romaji": "Itta kedo, dare mo inakatta.",
+                            "en": "I went, but nobody was there."
+                        }
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "高いけど、買いたい。",
+                            "romaji": "Takai kedo, kaitai.",
+                            "en": "It’s expensive, but I want to buy it."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "高い",
+                                "reading": "たかい",
+                                "meaning": "expensive / tall"
+                            },
+                            {
+                                "word": "買う",
+                                "reading": "かう",
+                                "meaning": "to buy"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "高かったけど、満足しています。",
+                            "romaji": "Takakatta kedo, manzoku shiteimasu.",
+                            "en": "It was expensive, but I’m satisfied."
+                        }
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "静かだけど、少し寂しい。",
+                            "romaji": "Shizuka dakedo, sukoshi sabishii.",
+                            "en": "It’s quiet, but a little lonely."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "静か",
+                                "reading": "しずか",
+                                "meaning": "quiet"
+                            },
+                            {
+                                "word": "寂しい",
+                                "reading": "さびしい",
+                                "meaning": "lonely"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "静かだったけど、楽しかった。",
+                            "romaji": "Shizuka datta kedo, tanoshikatta.",
+                            "en": "It was quiet, but fun."
+                        }
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "present",
+                        "example": {
+                            "jp": "学生だけど、アルバイトをしています。",
+                            "romaji": "Gakusei dakedo, arubaito o shiteimasu.",
+                            "en": "I’m a student, but I’m working part-time."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "学生",
+                                "reading": "がくせい",
+                                "meaning": "student"
+                            },
+                            {
+                                "word": "アルバイト",
+                                "reading": "—",
+                                "meaning": "part-time job"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "past",
+                        "example": {
+                            "jp": "学生だったけど、忙しかった。",
+                            "romaji": "Gakusei datta kedo, isogashikatta.",
+                            "en": "I was a student, but I was busy."
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "ですから (desu kara)",
+                "meaning": "therefore / so (polite connector)",
+                "form_explanation": "Used between two sentences: [Sentence A]。ですから、[Sentence B]。",
+                "patterns": [
+                    {
+                        "pos": "sentence",
+                        "formation": "Sentence A。ですから、Sentence B。"
+                    }
+                ],
+                "entries": [
+                    {
+                        "pos": "sentence",
+                        "tense": "present",
+                        "example": {
+                            "jp": "今日は休みです。ですから、会社に行きません。",
+                            "romaji": "Kyō wa yasumi desu. Desu kara, kaisha ni ikimasen.",
+                            "en": "Today is a holiday. Therefore, I won’t go to work."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "今日",
+                                "reading": "きょう",
+                                "meaning": "today"
+                            },
+                            {
+                                "word": "休み",
+                                "reading": "やすみ",
+                                "meaning": "holiday, rest"
+                            },
+                            {
+                                "word": "会社",
+                                "reading": "かいしゃ",
+                                "meaning": "company, office"
+                            },
+                            {
+                                "word": "行く",
+                                "reading": "いく",
+                                "meaning": "to go"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "sentence",
+                        "tense": "past",
+                        "example": {
+                            "jp": "昨日は休みでした。ですから、会社に行きませんでした。",
+                            "romaji": "Kinō wa yasumi deshita. Desu kara, kaisha ni ikimasen deshita.",
+                            "en": "Yesterday was a holiday. Therefore, I didn’t go to work."
+                        }
+                    },
+                    {
+                        "pos": "sentence",
+                        "tense": "present",
+                        "example": {
+                            "jp": "頭が痛いです。ですから、早く寝ます。",
+                            "romaji": "Atama ga itai desu. Desu kara, hayaku nemasu.",
+                            "en": "I have a headache. Therefore, I will go to bed early."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "頭",
+                                "reading": "あたま",
+                                "meaning": "head"
+                            },
+                            {
+                                "word": "痛い",
+                                "reading": "いたい",
+                                "meaning": "painful, hurt"
+                            },
+                            {
+                                "word": "早く",
+                                "reading": "はやく",
+                                "meaning": "early, quickly"
+                            },
+                            {
+                                "word": "寝る",
+                                "reading": "ねる",
+                                "meaning": "to sleep, to go to bed"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "sentence",
+                        "tense": "past",
+                        "example": {
+                            "jp": "疲れていました。ですから、早く寝ました。",
+                            "romaji": "Tsukarete imashita. Desu kara, hayaku nemashita.",
+                            "en": "I was tired. Therefore, I went to bed early."
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "だから (dakara)",
+                "meaning": "so / that’s why (casual connector)",
+                "form_explanation": "Used between two sentences: [Sentence A]。だから、[Sentence B]。",
+                "patterns": [
+                    {
+                        "pos": "sentence",
+                        "formation": "Sentence A。だから、Sentence B。"
+                    }
+                ],
+                "entries": [
+                    {
+                        "pos": "sentence",
+                        "tense": "present",
+                        "example": {
+                            "jp": "今日は休み。だから、会社に行かない。",
+                            "romaji": "Kyō wa yasumi. Dakara, kaisha ni ikanai.",
+                            "en": "Today’s a holiday. So I won’t go to work."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "今日",
+                                "reading": "きょう",
+                                "meaning": "today"
+                            },
+                            {
+                                "word": "休み",
+                                "reading": "やすみ",
+                                "meaning": "holiday, rest"
+                            },
+                            {
+                                "word": "会社",
+                                "reading": "かいしゃ",
+                                "meaning": "company, office"
+                            },
+                            {
+                                "word": "行かない",
+                                "reading": "いかない",
+                                "meaning": "to not go"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "sentence",
+                        "tense": "past",
+                        "example": {
+                            "jp": "昨日は休みだった。だから、会社に行かなかった。",
+                            "romaji": "Kinō wa yasumi datta. Dakara, kaisha ni ikanakatta.",
+                            "en": "Yesterday was a holiday. So I didn’t go to work."
+                        }
+                    },
+                    {
+                        "pos": "sentence",
+                        "tense": "present",
+                        "example": {
+                            "jp": "疲れた。だから、早く寝る。",
+                            "romaji": "Tsukareta. Dakara, hayaku neru.",
+                            "en": "I’m tired. So I’ll go to bed early."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "疲れる",
+                                "reading": "つかれる",
+                                "meaning": "to get tired"
+                            },
+                            {
+                                "word": "早く",
+                                "reading": "はやく",
+                                "meaning": "early, quickly"
+                            },
+                            {
+                                "word": "寝る",
+                                "reading": "ねる",
+                                "meaning": "to sleep, to go to bed"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "sentence",
+                        "tense": "past",
+                        "example": {
+                            "jp": "疲れていた。だから、早く寝た。",
+                            "romaji": "Tsukarete ita. Dakara, hayaku neta.",
+                            "en": "I was tired. So I went to bed early."
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "が (ga)",
+                "meaning": "but / although (polite contrast)",
+                "form_explanation": "Verb (plain or polite) + が; i-adj + が; na-adj + ですが; Noun + ですが",
+                "patterns": [
+                    {
+                        "pos": "verb",
+                        "formation": "Verb + が"
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "formation": "Adjい + が"
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "formation": "Adj + ですが"
+                    },
+                    {
+                        "pos": "noun",
+                        "formation": "N + ですが"
+                    }
+                ],
+                "entries": [
+                    {
+                        "pos": "verb",
+                        "tense": "present",
+                        "example": {
+                            "jp": "行きますが、少し遅れます。",
+                            "romaji": "Ikimasu ga, sukoshi okuremasu.",
+                            "en": "I will go, but I’ll be a little late."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "行く",
+                                "reading": "いく",
+                                "meaning": "to go"
+                            },
+                            {
+                                "word": "少し",
+                                "reading": "すこし",
+                                "meaning": "a little"
+                            },
+                            {
+                                "word": "遅れる",
+                                "reading": "おくれる",
+                                "meaning": "to be late"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "verb",
+                        "tense": "past",
+                        "example": {
+                            "jp": "行きましたが、誰もいませんでした。",
+                            "romaji": "Ikimashita ga, dare mo imasendeshita.",
+                            "en": "I went, but nobody was there."
+                        }
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "高いですが、品質はいいです。",
+                            "romaji": "Takai desu ga, hinshitsu wa ii desu.",
+                            "en": "It’s expensive, but the quality is good."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "高い",
+                                "reading": "たかい",
+                                "meaning": "expensive / tall"
+                            },
+                            {
+                                "word": "品質",
+                                "reading": "ひんしつ",
+                                "meaning": "quality"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "i-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "高かったですが、買いました。",
+                            "romaji": "Takakatta desu ga, kaimashita.",
+                            "en": "It was expensive, but I bought it."
+                        }
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "present",
+                        "example": {
+                            "jp": "静かですが、少し寂しいです。",
+                            "romaji": "Shizuka desu ga, sukoshi sabishii desu.",
+                            "en": "It’s quiet, but a little lonely."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "静か",
+                                "reading": "しずか",
+                                "meaning": "quiet"
+                            },
+                            {
+                                "word": "寂しい",
+                                "reading": "さびしい",
+                                "meaning": "lonely"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "na-adjective",
+                        "tense": "past",
+                        "example": {
+                            "jp": "静かでしたが、楽しかったです。",
+                            "romaji": "Shizuka deshita ga, tanoshikatta desu.",
+                            "en": "It was quiet, but fun."
+                        }
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "present",
+                        "example": {
+                            "jp": "学生ですが、アルバイトをしています。",
+                            "romaji": "Gakusei desu ga, arubaito o shiteimasu.",
+                            "en": "I am a student, but I have a part-time job."
+                        },
+                        "vocabulary": [
+                            {
+                                "word": "学生",
+                                "reading": "がくせい",
+                                "meaning": "student"
+                            },
+                            {
+                                "word": "アルバイト",
+                                "reading": "—",
+                                "meaning": "part-time job"
+                            }
+                        ]
+                    },
+                    {
+                        "pos": "noun",
+                        "tense": "past",
+                        "example": {
+                            "jp": "学生でしたが、忙しかったです。",
+                            "romaji": "Gakusei deshita ga, isogashikatta desu.",
+                            "en": "I was a student, but I was busy."
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
